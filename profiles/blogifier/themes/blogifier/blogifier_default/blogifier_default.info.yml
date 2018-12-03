@@ -1,0 +1,17 @@
+name: 'blogifier_default'
+type: 'theme'
+description: 'Default theme for Blogifier Drupal 8 Distribution.'
+core: '8.x'
+
+'base theme': 'classy'
+
+libraries:
+  - blogifier_default/blogifier-style
+
+regions:
+  header: 'Header'
+  content: 'Content'
+  sidebar_first: 'Sidebar first'
+  breadcrumb: 'Breadcrumbs'
+regions_hidden:
+  footer: 'Footer'
