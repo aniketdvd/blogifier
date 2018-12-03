@@ -42,4 +42,11 @@ dependencies:
   - views_ui
   - tour
   - automated_cron
+  - token
+  - ctools
+  - paragraphs
+  - pathauto
+  - redirect
+  - token
+  - video_embed_field
 
