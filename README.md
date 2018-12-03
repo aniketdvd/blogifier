@@ -28,3 +28,4 @@ This comes with many features that are provided by contrib modules in Drupal
 
 # Themes
 #### This Drupal 8 distribution comes with a light grey-white default theme, that feels cool to eyes. With a parallax twist in the header, this Drupal 8 theme (blogifier_default) is worth trying. New themes will be added occasionally. Also in seperate repositories.
+![theme in action](https://github.com/aniketdvd/blogifier/blob/master/Screenshot%20from%202018-12-04%2004-19-29.png)
