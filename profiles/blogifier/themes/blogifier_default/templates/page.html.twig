@@ -1,20 +1,20 @@
 <nav class="grey z-depth-3">
   <div class="center nav-content">
-		<div class="left white-text nav-brand">
-			<div class="nav-content">
+	  <div class="left white-text nav-brand">
+		  <div class="nav-content">
 			  <a href="{{ path('<front>') }}" title="{{ 'Home'|t }}" rel="home">{{ site_name }}'s Home</a>
-			</div>				
-		</div>
-	</div>
+		  </div>				
+	  </div>
+  </div>
 </nav>
 
 <main>
   <div class="row">
-		<div class="col s12 m4 l3 grey z-depth-1-half"> <!-- sidebar -->
-			{{ page.sidebar_first }}
-		</div>    
+	  <div class="col s12 m4 l3 grey z-depth-1-half"> <!-- sidebar -->
+		  {{ page.sidebar_first }}
+    </div>    
   <div class="col s12 m8 l9 grey lighten-2 z-depth-1-half"> <!-- content -->
-		{{ page.content }}
+	  {{ page.content }}
   </div>      
 </div>
 
@@ -22,8 +22,8 @@
 
 <footer class="footer grey darken-2 white-text">
   <h6>Blogifier theme</h6>
-		<h6>&copy; Aniket Dwivedi</h6>
-		{% if page.footer %}
-			{{ page.footer }}
-		{% endif %}
+	  <h6>&copy; Aniket Dwivedi</h6>
+    {% if page.footer %}
+      {{ page.footer }}
+    {% endif %}
 </footer>
