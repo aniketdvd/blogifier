@@ -51,6 +51,6 @@ dependencies:
   - video_embed_field
 
 themes:
-	- blogifier_default
-	- blogifier_darch
+  -blogifier_default
+  - blogifier_darch
   - seven
