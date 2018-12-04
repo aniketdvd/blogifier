@@ -14,7 +14,7 @@ This comes with many features that are provided by contrib modules in Drupal
 ### Admin toolbar
 ##### No need to wait to move to some/admin/section. Just jump there with this amazing and handy module
 
-### Pragraphs
+### Paragraphs
 ##### Paragraphs is the new way of content creation! It allows us to make things cleaner so that we can give more editing power to our end-users
 
 ### Redirect
