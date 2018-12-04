@@ -1,0 +1,56 @@
+h1{
+	font-size: 50px;
+}
+h2{
+	font-size: 40px;
+}
+h3{
+	font-size: 32px;
+}
+h4{
+	font-size: 28px;
+}
+h5{
+	font-size: 20px;
+}
+h6{
+	font-size: 15px;
+}
+nav{
+    position: sticky;
+    top: 0;
+}
+nav a{
+    margin: 10px;
+}
+main{
+		padding-left: 7%;
+		padding-right: 7%;
+    padding-top: 30px;
+}
+main article{
+	padding: 20px;
+	border-radius: 1pt;
+	border-left: 3px grey solid;
+}
+.padded{
+    margin: 1px;
+}
+.row .col{
+    padding: 18px;
+}
+header{
+    padding: 180px;
+    background-attachment: fixed;
+    background-image: url('../header.jpg');
+    background-size: cover;
+}
+header > h1{
+	font-weight: 700;
+	font-size: 60px;
+}
+footer{
+    position: relative;
+    top: 100%;
+    padding: 20px;
+}

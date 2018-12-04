@@ -50,3 +50,7 @@ dependencies:
   - token
   - video_embed_field
 
+themes:
+	- blogifier_default
+	- blogifier_darch
+  - seven

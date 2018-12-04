@@ -1,0 +1,17 @@
+name: 'blogifier_darch'
+type: 'theme'
+description: 'Dark theme for Blogifier Drupal 8 Distribution.'
+core: '8.x'
+
+'base theme': 'classy'
+
+libraries:
+  - blogifier_darch/blogifier-style
+
+regions:
+  header: 'Header'
+  content: 'Content'
+  sidebar_first: 'Sidebar first'
+  breadcrumb: 'Breadcrumbs'
+regions_hidden:
+  footer: 'Footer'

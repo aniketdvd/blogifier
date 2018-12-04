@@ -1,0 +1,7 @@
+<?php
+function blogifier_darch_preprocess_page(&$variables) {
+  $site_config = \Drupal::config('system.site');
+  $variables['site_name'] = $site_config->get('name');
+  $variables['site_slogan'] = $site_config->get('slogan');
+}
+?>

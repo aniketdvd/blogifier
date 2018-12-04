@@ -1,0 +1,5 @@
+blogifier-style:
+  css:
+    theme:
+      css/materialize.css: {}
+      css/style.css: {}
